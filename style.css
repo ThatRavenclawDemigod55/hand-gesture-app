@@ -1,0 +1,48 @@
+body
+{
+  color: white;
+  background:linear-gradient(#abdbe3, #154c79);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size: 18px; 
+  letter-spacing: 10px;
+  border-radius: 10px;
+  background:linear-gradient(#023f76,#dcdace);
+}
+label 
+{
+  font-size: 14px;
+  font-family:'Courier New', Courier, monospace;
+  color:crimson;
+  background-color: white;
+  padding:6px ;
+  border-radius: 10px;
+}
+#p1
+{
+  font-size: 15px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
